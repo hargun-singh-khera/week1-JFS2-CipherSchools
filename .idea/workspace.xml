@@ -5,15 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ab483f7-13e1-41c8-8493-880ce7e35212" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaSetUpAndPractice/EmployeePayroll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaSetUpAndPractice/JavaBasics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Abstraction/OlaCab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ConditionalsAndLoops/BirthdayAndPoliceFine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ConditionalsAndLoops/BurrpCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ConditionalsAndLoops/RandomNumberGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ConditionalsAndLoops/SwitchCaseInJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ConditionalsAndLoops/WhileAndDoWhileLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Constructors/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Encapsulation/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Inheritance/Furniture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Polymorphism/DynamicPolymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Polymorphism/StaticPolymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Polymorphism/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Polymorphism/Task2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +38,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2KanylCnM3SLG9CpiJ4UBgWRsPM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -45,13 +53,21 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EmployeePayroll">
-    <configuration name="EmployeePayroll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaSetUpAndPractice.EmployeePayroll" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Abstraction" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="Abstraction" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Task2">
+    <configuration name="BirthdayAndPoliceFine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConditionalsAndLoops.BirthdayAndPoliceFine" />
       <module name="Week 1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaSetUpAndPractice.*" />
+          <option name="PATTERN" value="ConditionalsAndLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +75,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaSetUpAndPractice.JavaBasics" />
+    <configuration name="DynamicPolymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Polymorphism.DynamicPolymorphism" />
       <module name="Week 1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaSetUpAndPractice.*" />
+          <option name="PATTERN" value="Polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Encapsulation.Example" />
+      <module name="Week 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Encapsulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Polymorphism.Task1" />
+      <module name="Week 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Polymorphism.Task2" />
+      <module name="Week 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,8 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EmployeePayroll" />
-        <item itemvalue="Application.JavaBasics" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.DynamicPolymorphism" />
+        <item itemvalue="Application.BirthdayAndPoliceFine" />
+        <item itemvalue="Application.Example" />
       </list>
     </recent_temporary>
   </component>
